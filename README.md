@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @devgabrielcd
-- 👀 I’m interested in code developer jobs in US and Europe
-- 🌱 I’m currently working with Python(Django), JavaScript and TypeScritp (React and NextJs) and PostgreSQL. Also Github.
-- 💞️ I’m looking to collaborate on Projects in Team, or solo. Im a versatile worker
-- 📫 How to reach me-> devgabrielcd@gmail.com or whatsapp (48)996132873
+# 👋 Hi, I'm Gabriel Dechiara
 
-<!---
-devgabrielcd/devgabrielcd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 Full Stack Developer | Next.js, Django, PostgreSQL & AWS
+
+I am a versatile developer with 4+ years of experience building scalable web applications and AI-driven automation systems. I specialize in creating clean, maintainable code and high-performance user interfaces.
+
+---
+
+### 🛠️ Tech Stack
+
+- **Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS, Redux, Zustand
+- **Backend:** Python, Django, Django REST Framework, Node.js
+- **Database:** PostgreSQL, MySQL, Redis
+- **Cloud & DevOps:** AWS (EC2, S3, RDS), Nginx, PM2, Docker, CI/CD
+- **Other:** AI Agents, LLM Integration (OpenAI, Anthropic), Meta Ads API
+
+---
+
+### 📫 Connect with me
+
+- **Email:** [devgabrielcd@gmail.com](mailto:devgabrielcd@gmail.com)
+- **LinkedIn:** [linkedin.com/in/gabriel-dechiara](https://linkedin.com/in/gabriel-dechiara)
+- **WhatsApp:** +55 (48) 99613-2873
+
+---
+
+*“Coding with AI as a multiplier to deliver senior-level results.”*
